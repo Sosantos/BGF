@@ -1,0 +1,7 @@
+State       Count(State)
+----------  ------------
+CA          3           
+SP          3           
+ON          2           
+RJ          2           
+AB          1           

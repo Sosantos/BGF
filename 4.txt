@@ -1,0 +1,3 @@
+CustomerId  FirstName   LastName    Company     Address       City        State       Country     PostalCode  Phone               Fax                 Email                     SupportRepId
+----------  ----------  ----------  ----------  ------------  ----------  ----------  ----------  ----------  ------------------  ------------------  ------------------------  ------------
+13          Fernanda    Ramos                   Qe 7 Bloco G  Brasília   DF          Brazil      71020-677   +55 (61) 3363-5547  +55 (61) 3363-7855  fernadaramos4@uol.com.br  4           

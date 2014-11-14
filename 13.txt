@@ -1,0 +1,3 @@
+(SELECT FirstName||' '||LastName AS Fullname FROM Customer WHERE CustomerId=i.CustomerId)  Total     
+-----------------------------------------------------------------------------------------  ----------
+Helena Holý                                                                               25.86     
